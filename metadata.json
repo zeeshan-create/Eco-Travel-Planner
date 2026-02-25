@@ -1,0 +1,5 @@
+{
+  "name": "Eco-Travel Planner",
+  "description": "A responsive hybrid web app for planning sustainable travel using AI insights.",
+  "requestFramePermissions": ["geolocation"]
+}
